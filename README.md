@@ -85,6 +85,8 @@ ds.save_train_data("train_tweets")
 
 You see a exemplary possibility for pretraining under opinion-mining/Training Example.ipynb
 
+![alt text](https://github.com/miweru/twitter-opinion-mining/raw/main/model.png "Opinion Mining Classifier Architecture")
+
 # Using inference
 
 For Inference you can use TweetLabelPredictor. The Cutoff Value determines when a label will be assigned.
