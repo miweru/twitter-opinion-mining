@@ -1,0 +1,10 @@
+pyqt6
+#libopengl0
+scikit-learn
+scikit-multiflow
+numpy
+gensim
+transformers>4
+nltk
+emoji>=1.2
+jupyter
